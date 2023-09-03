@@ -9,6 +9,7 @@ An transformer based audio classification system fine-tuned on distilBERT with T
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Twitter][Twitter-shield]][Twitter-url]
 
@@ -167,7 +168,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Mahimai Raja J - [@mahimairaja3](https://twitter.com/your_username) - info@mahimairaja.in
+Mahimai Raja J - [@mahimairaja3](https://twitter.com/mahimairaja3) - info@mahimairaja.in
 
 Project Link: [mahimairaja/music-genre-gtzan-classification](https://github.com/mahimairaja/music-genre-gtzan-classification)
 
